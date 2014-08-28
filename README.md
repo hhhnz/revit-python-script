@@ -1,4 +1,4 @@
 revit-python-script
 ===================
 
-revit pythong script 
+useful revit pythong script to make your work faster using Autodesk Revit.

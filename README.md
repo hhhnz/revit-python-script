@@ -1,4 +1,4 @@
 revit-python-script
 ===================
 
-useful revit pythong script to make your work easier using Autodesk Revit.
+useful revit python script to make your work easier using Autodesk Revit.
